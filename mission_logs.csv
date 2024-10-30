@@ -1,0 +1,11 @@
+mission_id,tactic,mission_duration,mission_success,geographical_zone,risk_level
+1,Ambush,35,1,Zone A,High
+2,Reconnaissance,40,0,Zone B,Moderate
+3,Secure Perimeter,50,1,Zone A,Low
+4,Direct Assault,30,0,Zone C,High
+5,Defensive Hold,60,1,Zone B,Moderate
+6,Ambush,45,1,Zone C,High
+7,Reconnaissance,55,1,Zone D,Low
+8,Secure Perimeter,60,0,Zone D,Moderate
+9,Direct Assault,20,1,Zone A,High
+10,Defensive Hold,35,1,Zone C,Low

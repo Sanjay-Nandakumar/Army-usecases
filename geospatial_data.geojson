@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.9629, 20.5937]
+      },
+      "properties": {
+        "zone": "Zone A",
+        "risk_level": "High"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "zone": "Zone B",
+        "risk_level": "Moderate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "zone": "Zone C",
+        "risk_level": "High"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3639, 22.5726]
+      },
+      "properties": {
+        "zone": "Zone D",
+        "risk_level": "Low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8245, 20.2961]
+      },
+      "properties": {
+        "zone": "Zone E",
+        "risk_level": "Moderate"
+      }
+    }
+  ]
+}
